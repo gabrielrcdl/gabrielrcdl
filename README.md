@@ -1,4 +1,4 @@
-### Olá, fique à vontade! 👋
+### Olá, sinta-se à vontade! 👋
 
 <!--
 **gabrielrcdl/gabrielrcdl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
