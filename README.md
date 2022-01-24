@@ -8,7 +8,7 @@
 ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielrcdl&show_icons=true&theme=dark)
 
 
-## Conhecimentos nas seguintes tecnologias: 🤓
+## Conhecimentos nas seguintes tecnologias:👨‍💻
 
 
 
