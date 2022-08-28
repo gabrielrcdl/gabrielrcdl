@@ -1,14 +1,14 @@
-## Olá! sinta-se à vontade! 👋
+## hello, feel free! 👋
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabrielcarrdoso__/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-cardoso-878785190/)
 
-### Meu e-mail: gr78787@gmail.com <br/><br/>
+### E-mail: gr78787@gmail.com <br/><br/>
 
 ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielrcdl&show_icons=true&theme=dark)
 
 
-## Conhecimentos nas seguintes tecnologias:👨‍💻
+## knowledge in the following technologies:👨‍💻
 
 
 
