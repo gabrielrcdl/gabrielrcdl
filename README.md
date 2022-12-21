@@ -6,6 +6,8 @@
 ### E-mail: gr78787@gmail.com <br/><br/>
 
 ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielrcdl&show_icons=true&theme=dark)
+<br></br>
+![Gabriel GitHub langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielrcdl&layout=compact&theme=dracula)
 
 
 ## knowledge in the following technologies:👨‍💻
