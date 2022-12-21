@@ -7,7 +7,7 @@
 
 ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielrcdl&show_icons=true&theme=merko)
 <br></br>
-![Gabriel Github langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielrcdl&layout=compact&theme=merko)(https://github.com/gabrielrcdl)
+![Gabriel Github langs](https//github-readme-stats.vercel.app/api/top-langs/?username=wilamisaviz15&layout=compact&theme=dracula)
 
 
 ## knowledge in the following technologies:👨‍💻
