@@ -5,7 +5,7 @@
 
 ### E-mail: gr78787@gmail.com <br/><br/>
 
-![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielrcdl&show_icons=true&theme=dark)
+![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielrcdl&show_icons=true&theme=merko)
 <br></br>
 
 
