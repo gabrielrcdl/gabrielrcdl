@@ -5,9 +5,11 @@
 
 ### E-mail: gr78787@gmail.com <br/><br/>
 
-<div style="align-items: center">
-<img height="180em"(https://github-readme-stats.vercel.app/api?username=gabrielrcdl&show_icons=true&theme=dracula)
-<img height="180em"(https://github-readme-stats.vercel.app/api/top-langs/?username=wilamisaviz15&layout=compact&theme=dracula)
+
+<div align="center">
+  <a href="https://github.com/gabrielrcdl">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielrcdl&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielrcdl&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ## knowledge in the following technologies:👨‍💻
